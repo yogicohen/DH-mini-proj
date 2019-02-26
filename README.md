@@ -14,17 +14,19 @@
 2. From Kaggle-The Movies Dataset page (https://www.kaggle.com/rounakbanik/the-movies-dataset), download:
     movies_metadata.csv (table columns are described in the link)
     
-3. Run createTitlePrincipalsOnlyActors.py in order to create principals table of only actors records:
+3. Download python scripts, wikidata_actor_africanamericans_imdbid.csv and wikidata_filmactor_africanamericans_imdbid.csv files.
+
+4. Run createTitlePrincipalsOnlyActors.py in order to create principals table of only actors records:
 title_principals_only_actors.tsv file (which basicly contains imdb_id's of movies and their actors imdb_id's).
 
-4. Run createUsMovies.py in order to create a table of movies produced in the US:
+5. Run createUsMovies.py in order to create a table of movies produced in the US:
 us_movies.csv file (which contains id, title, release year and genres of every movie).
 
-5. Run createYearMoviesMoviesWithAAActors.py
+6. Run createYearMoviesMoviesWithAAActors.py
 It iterates over the years and for each year, counts the total number of movies produced and the number of those with african-american actors.
 Finally writing the requested data to year_movies_moviesWithAAActors.csv file.
 
-6. Run createGenresPopularity.py
+7. Run createGenresPopularity.py
 It will iterate over all african-american actors from records of wikidata query created files,
 and for every actor, find his movies, find movie genres for every movie and add every genre to the genre count.
 Finally writing the data to genre_num_of_movies.csv file.
