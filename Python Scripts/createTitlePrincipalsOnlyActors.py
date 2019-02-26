@@ -7,6 +7,7 @@
 # 2. creating new title_principals_onlyactors.tsv file
 # the new file contains only records of actors or actresses.
 # ************************************************************
+# Files location instructions:
 # The data.tsv file from compressed file title.principals.tsv.gz
 # should be extracted to same folder and renamed as title_principals.tsv
 # ************************************************************

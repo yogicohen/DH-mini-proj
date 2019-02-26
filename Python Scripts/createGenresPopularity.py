@@ -12,6 +12,7 @@
 # and increment appropriate key-value in genres_dict
 # 5. create a dataframe from genres_dict and write it to a csv file called genre_num_of_movies.csv.csv
 # ************************************************************
+# Files location instructions:
 # us_movies.csv file created by createUsMovies.py,
 # title_principals_only_actors.tsv file created by createTitlePrincipalsOnlyActors.py,
 # wikidata_actor_africanamericans_imdbid.csv,

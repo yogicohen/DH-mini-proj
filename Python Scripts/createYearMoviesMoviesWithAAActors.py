@@ -10,6 +10,7 @@
 # and num of movies with aa-actors in each year.
 # 5. write the new dataframe to a csv file called year_movies_moviesWithAAActors.csv
 # ************************************************************
+# Files location instructions:
 # us_movies.csv file created by createUsMovies.py,
 # title_principals_only_actors.tsv file created by createTitlePrincipalsOnlyActors.py,
 # wikidata_actor_africanamericans_imdbid.csv,

@@ -9,6 +9,7 @@
 #    of movies produced in the us, with the columns : tconst,primaryTitle,startYear,genres
 # 5. creates "us_movies.csv" from the dataframe in step 4
 # ************************************************************
+# Files location instructions:
 # movies_metadata.csv file from kaggle/the-movie-dataset.zip should be in same folder.
 # title.basics.tsv.gz from imdb-dataset should be in same folder.
 # ************************************************************
