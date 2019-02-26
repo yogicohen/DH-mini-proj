@@ -39,3 +39,8 @@ Finally writing the data to genre_num_of_movies.csv file.
 
 # Final tables and graphs:
 These were created manually from the final results files described above.
+
+# Project site:
+https://yogco2.wixsite.com/aa-movie-actors-yogi
+
+# The result data may be inaccurate because of missing data in the movies-datasets, or lack of information about more african-american actors ethnic group in wiki-data records.
