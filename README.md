@@ -3,11 +3,14 @@
 # African-American actors in the US movie industry data analysis.
 The project idea is to find out african-american actors in the US movie industry status and changes over the years.
 
-# How to use:
+# Project website:
+https://yogco2.wixsite.com/aa-movie-actors-yogi
+
+# How to run the scripts:
 
 * You should have python 3.6.x or higher and pandas library installed.
-* wikidata_actor_africanamericans_imdbid.csv and wikidata_filmactor_africanamericans_imdbid.csv were created ahead with wikidata-query service.
-* Scripts runtime may be very long because of very large datasets and somewhat inefficient implementations.
+* wikidata_actor_africanamericans_imdbid.csv and wikidata_filmactor_africanamericans_imdbid.csv were created ahead with wikidata-query service, contains records of movie actors of african-american ethnicity.
+* Scripts runtime may be very long because of very large datasets files.
 * Each script file contains instructions for needed files and their location.
 
 1. From IMDb-datasets page (https://www.imdb.com/interfaces/), download files: 
@@ -39,8 +42,5 @@ Finally writing the data to genre_num_of_movies.csv file.
 
 # Final tables and graphs:
 These were created manually from the final results files described above.
-
-# Project site:
-https://yogco2.wixsite.com/aa-movie-actors-yogi
 
 # The result data may be inaccurate because of missing data in the movies-datasets, or lack of information about more african-american actors ethnic group in wiki-data records.
