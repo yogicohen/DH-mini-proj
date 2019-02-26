@@ -16,7 +16,7 @@ The project idea is to find out african-american actors in the US movie industry
 2. From Kaggle-The Movies Dataset page (https://www.kaggle.com/rounakbanik/the-movies-dataset), download:
     movies_metadata.csv (table columns are described in the link)
     
-3. Download python scripts, wikidata_actor_africanamericans_imdbid.csv and wikidata_filmactor_africanamericans_imdbid.csv files.
+3. Download all python scripts, wikidata_actor_africanamericans_imdbid.csv and wikidata_filmactor_africanamericans_imdbid.csv files from wikidata directory.
 
 4. Run createTitlePrincipalsOnlyActors.py in order to create principals table of only actors records:
 title_principals_only_actors.tsv file (which basicly contains imdb_id's of movies and their actors imdb_id's).
