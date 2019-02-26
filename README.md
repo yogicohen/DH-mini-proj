@@ -3,11 +3,13 @@
 # African-American actors in the US movie industry data analysis.
 # How to use:
 
-* You should have python 3.6.x or higher and pandas library installed. *
+* You should have python 3.6.x or higher and pandas library installed.
+* wikidata_actor_africanamericans_imdbid.csv and wikidata_filmactor_africanamericans_imdbid.csv were created ahead with wikidata-query service.
+* Steps 5 and 6 may take a lot of time because of very large datasets and inefficient implementation.
+* Each script file contains instructions for needed files and their location.
 
 1. From IMDb-datasets page (https://www.imdb.com/interfaces/), download files: 
-    title.basics.tsv.gz (table columns are described in the link)
-    title.principals.tsv.gz (table columns are described in the link)
+    title.basics.tsv.gz and title.principals.tsv.gz (table columns are described in the link)
 
 2. From Kaggle-The Movies Dataset page (https://www.kaggle.com/rounakbanik/the-movies-dataset), download:
     movies_metadata.csv (table columns are described in the link)
@@ -26,7 +28,3 @@ Finally writing the requested data to year_movies_moviesWithAAActors.csv file.
 It will iterate over all african-american actors from records of wikidata query created files,
 and for every actor, find his movies, find movie genres for every movie and add every genre to the genre count.
 Finally writing the data to genre_num_of_movies.csv file.
-
-*** Steps 5 and 6 may take a lot of time because of very large datasets and inefficient implementation. ***
-
-*** Each script file contains instructions for needed files and their location. ***
