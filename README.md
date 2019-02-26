@@ -6,12 +6,8 @@
 * You should have python 3.6.x or higher and pandas library installed. *
 
 1. From IMDb-datasets page (https://www.imdb.com/interfaces/), download files: 
-- title.basics.tsv.gz (table columns are described in the link)
-- title.principals.tsv.gz (table columns are described in the link)
-# Information courtesy of
-# IMDb
-# (http://www.imdb.com).
-# Used with permission.
+    title.basics.tsv.gz (table columns are described in the link)
+    title.principals.tsv.gz (table columns are described in the link)
 
 2. From Kaggle-The Movies Dataset page (https://www.kaggle.com/rounakbanik/the-movies-dataset), download:
     movies_metadata.csv (table columns are described in the link)
@@ -26,13 +22,18 @@ us_movies.csv file (which contains id, title, release year and genres of every m
 It iterates over the years and for each year, counts the total number of movies produced and the number of those with african-american actors.
 Finally writing the requested data to year_movies_moviesWithAAActors.csv file.
 
-* This may take a lot of time because of very large datasets and inefficient implementation. *
+*** This may take a lot of time because of very large datasets and inefficient implementation. ***
 
 6. Run createGenresPopularity.py
 It will iterate over all african-american actors from records of wikidata query created files,
 and for every actor, find his movies, find movie genres for every movie and add every genre to the genre count.
 Finally writing the data to genre_num_of_movies.csv file.
 
-* This may take a lot of time because of very large datasets and inefficient implementation. *
+*** This may take a lot of time because of very large datasets and inefficient implementation. ***
 
-*** Each script file contains instructions for needed files and their location.
+*** Each script file contains instructions for needed files and their location. ***
+
+# Information courtesy of
+# IMDb
+# (http://www.imdb.com).
+# Used with permission.
