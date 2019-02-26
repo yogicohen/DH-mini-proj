@@ -1,6 +1,8 @@
 # My Digital Humanities mini project.
 
 # African-American actors in the US movie industry data analysis.
+The project idea is to find out african-american actors in the US movie industry status and changes over the years.
+
 # How to use:
 
 * You should have python 3.6.x or higher and pandas library installed.
@@ -30,3 +32,10 @@ Finally writing the requested data to year_movies_moviesWithAAActors.csv file.
 It will iterate over all african-american actors from records of wikidata query created files,
 and for every actor, find his movies, find movie genres for every movie and add every genre to the genre count.
 Finally writing the data to genre_num_of_movies.csv file.
+
+# The final results:
+* year_movies_moviesWithAAActors.csv file contains year - number of movies - number of movies with african-american actors (from earliest year in the db to 2018).
+* genre_num_of_movies.csv file contains genre - number of movies from this genre (of only movies with african-american actors).
+
+# Final tables and graphs:
+These were created manually from the final results files described above.
