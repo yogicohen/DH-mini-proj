@@ -1,0 +1,678 @@
+actor,actorLabel,IMDb_ID
+http://www.wikidata.org/entity/Q42101,Denzel Washington,nm0000243
+http://www.wikidata.org/entity/Q43950,Jacob Artist,nm4498664
+http://www.wikidata.org/entity/Q44450,Roger Aaron Brown,nm0114578
+http://www.wikidata.org/entity/Q44473,O. J. Simpson,nm0001740
+http://www.wikidata.org/entity/Q44857,John Legend,nm1775466
+http://www.wikidata.org/entity/Q45338,Günther Kaufmann,nm0442316
+http://www.wikidata.org/entity/Q48337,Morgan Freeman,nm0000151
+http://www.wikidata.org/entity/Q49001,Whoopi Goldberg,nm0000155
+http://www.wikidata.org/entity/Q51566,Spike Lee,nm0000490
+http://www.wikidata.org/entity/Q52440,LL Cool J,nm0005112
+http://www.wikidata.org/entity/Q52447,RZA,nm0753526
+http://www.wikidata.org/entity/Q53549,N.O.R.E.,nm1099891
+http://www.wikidata.org/entity/Q55800,Oprah Winfrey,nm0001856
+http://www.wikidata.org/entity/Q72832,Cassie Ventura,nm0144260
+http://www.wikidata.org/entity/Q82488,Flex Alexander,nm0018416
+http://www.wikidata.org/entity/Q104049,Sidney Poitier,nm0001627
+http://www.wikidata.org/entity/Q109842,Carol Campbell,nm0132269
+http://www.wikidata.org/entity/Q1779,Louis Armstrong,nm0001918
+http://www.wikidata.org/entity/Q2831,Michael Jackson,nm0001391
+http://www.wikidata.org/entity/Q4042,CeeLo Green,nm0123741
+http://www.wikidata.org/entity/Q4109,Chris Rock,nm0001674
+http://www.wikidata.org/entity/Q4617,Corbin Bleu,nm0088298
+http://www.wikidata.org/entity/Q6060,50 Cent,nm1265067
+http://www.wikidata.org/entity/Q6078,Dr. Dre,nm0236564
+http://www.wikidata.org/entity/Q6096,Snoop Dogg,nm0004879
+http://www.wikidata.org/entity/Q7542,Prince,nm0002239
+http://www.wikidata.org/entity/Q10738,Dwayne Johnson,nm0425005
+http://www.wikidata.org/entity/Q11617,Aaliyah,nm0004691
+http://www.wikidata.org/entity/Q14542,Tracy Morgan,nm0605079
+http://www.wikidata.org/entity/Q31013,Patti LaBelle,nm0479458
+http://www.wikidata.org/entity/Q31293,Vondie Curtis-Hall,nm0193554
+http://www.wikidata.org/entity/Q34389,Whitney Houston,nm0001365
+http://www.wikidata.org/entity/Q36153,Beyoncé,nm0461498
+http://www.wikidata.org/entity/Q39965,James Pickens,nm0681782
+http://www.wikidata.org/entity/Q40046,Jesse Williams,nm2222264
+http://www.wikidata.org/entity/Q40048,Isaiah Washington,nm0913460
+http://www.wikidata.org/entity/Q40090,Chandra Wilson,nm0933156
+http://www.wikidata.org/entity/Q40117,Rutina Wesley,nm2179180
+http://www.wikidata.org/entity/Q40321,Dave Chappelle,nm0152638
+http://www.wikidata.org/entity/Q40470,Isaiah Mustafa,nm2248149
+http://www.wikidata.org/entity/Q173637,Ice Cube,nm0001084
+http://www.wikidata.org/entity/Q176323,Bernie Mac,nm0005170
+http://www.wikidata.org/entity/Q177131,Mario,nm1276562
+http://www.wikidata.org/entity/Q177577,Henry Simmons,nm0005431
+http://www.wikidata.org/entity/Q178166,Vin Diesel,nm0004874
+http://www.wikidata.org/entity/Q180224,Lenny Kravitz,nm0005107
+http://www.wikidata.org/entity/Q181229,Jennifer Beals,nm0000884
+http://www.wikidata.org/entity/Q182763,Forest Whitaker,nm0001845
+http://www.wikidata.org/entity/Q184249,Kelly Rowland,nm0746714
+http://www.wikidata.org/entity/Q187107,Marques Houston,nm0396867
+http://www.wikidata.org/entity/Q188648,Raven-Symoné,nm0712368
+http://www.wikidata.org/entity/Q189078,Xzibit,nm0944702
+http://www.wikidata.org/entity/Q189489,Zendaya,nm3918035
+http://www.wikidata.org/entity/Q190162,Zoe Saldana,nm0757855
+http://www.wikidata.org/entity/Q192165,Danny Glover,nm0000418
+http://www.wikidata.org/entity/Q192410,Jennifer Hudson,nm1617685
+http://www.wikidata.org/entity/Q193676,Ludacris,nm0524839
+http://www.wikidata.org/entity/Q194032,Debra Wilson,nm0933281
+http://www.wikidata.org/entity/Q195691,Amandla Stenberg,nm3964350
+http://www.wikidata.org/entity/Q201608,Dennis Rodman,nm0005379
+http://www.wikidata.org/entity/Q202801,Vanessa Williams,nm0001853
+http://www.wikidata.org/entity/Q203960,James Earl Jones,nm0000469
+http://www.wikidata.org/entity/Q206439,Isaac Hayes,nm0005002
+http://www.wikidata.org/entity/Q213512,Bill Cosby,nm0001070
+http://www.wikidata.org/entity/Q214226,Lauryn Hill,nm0005012
+http://www.wikidata.org/entity/Q214227,T.I.,nm1939267
+http://www.wikidata.org/entity/Q215300,Jordin Sparks,nm2554052
+http://www.wikidata.org/entity/Q216936,Sean Combs,nm0004835
+http://www.wikidata.org/entity/Q218992,Nelly,nm0625099
+http://www.wikidata.org/entity/Q221364,Jaden Smith,nm1535523
+http://www.wikidata.org/entity/Q223769,DMX,nm0229422
+http://www.wikidata.org/entity/Q227129,Zoë Kravitz,nm2368789
+http://www.wikidata.org/entity/Q228787,Jada Pinkett Smith,nm0000586
+http://www.wikidata.org/entity/Q228904,Hattie McDaniel,nm0567408
+http://www.wikidata.org/entity/Q228909,Mary J. Blige,nm0004763
+http://www.wikidata.org/entity/Q228918,Gloria Gaynor,nm0310974
+http://www.wikidata.org/entity/Q229036,Jessica Szohr,nm1221906
+http://www.wikidata.org/entity/Q229153,Michelle Williams,nm0931332
+http://www.wikidata.org/entity/Q229169,Mo'Nique,nm0594898
+http://www.wikidata.org/entity/Q229181,Viola Davis,nm0205626
+http://www.wikidata.org/entity/Q229251,Dorothy Dandridge,nm0199268
+http://www.wikidata.org/entity/Q229254,Octavia Spencer,nm0818055
+http://www.wikidata.org/entity/Q230113,Gabourey Sidibe,nm2829737
+http://www.wikidata.org/entity/Q231228,Solange Knowles,nm1090271
+http://www.wikidata.org/entity/Q231648,Gabrielle Union,nm0005517
+http://www.wikidata.org/entity/Q231942,Natalie Cole,nm0004831
+http://www.wikidata.org/entity/Q232085,Lil Mama,nm2674657
+http://www.wikidata.org/entity/Q232104,Kerry Washington,nm0913488
+http://www.wikidata.org/entity/Q232120,Angela Bassett,nm0000291
+http://www.wikidata.org/entity/Q232288,Fantasia Barrino,nm1568881
+http://www.wikidata.org/entity/Q232456,Macy Gray,nm0004975
+http://www.wikidata.org/entity/Q232592,Jill Scott,nm0779325
+http://www.wikidata.org/entity/Q233213,Paula Patton,nm1745736
+http://www.wikidata.org/entity/Q233229,Keyshia Cole,nm1919229
+http://www.wikidata.org/entity/Q233377,Amerie,nm1399051
+http://www.wikidata.org/entity/Q233736,Mýa,nm0616550
+http://www.wikidata.org/entity/Q233862,Pam Grier,nm0000427
+http://www.wikidata.org/entity/Q234356,Janelle Monáe,nm1847117
+http://www.wikidata.org/entity/Q234360,Ruby Dee,nm0002039
+http://www.wikidata.org/entity/Q234544,Regina King,nm0005093
+http://www.wikidata.org/entity/Q234633,Madison Pettis,nm2202521
+http://www.wikidata.org/entity/Q235141,Regina Hall,nm0356021
+http://www.wikidata.org/entity/Q112167,Boris Kodjoe,nm0462673
+http://www.wikidata.org/entity/Q112307,Lena Horne,nm0395043
+http://www.wikidata.org/entity/Q117139,Wiz Khalifa,nm4381591
+http://www.wikidata.org/entity/Q121507,Alicia Keys,nm1006024
+http://www.wikidata.org/entity/Q126927,Mase,nm0556234
+http://www.wikidata.org/entity/Q128061,Peter Parros,nm0663602
+http://www.wikidata.org/entity/Q131324,Janet Jackson,nm0001390
+http://www.wikidata.org/entity/Q131814,Tina Turner,nm0877913
+http://www.wikidata.org/entity/Q133665,Marla Gibbs,nm0004958
+http://www.wikidata.org/entity/Q136209,Cuba Gooding Jr.,nm0000421
+http://www.wikidata.org/entity/Q151118,Katerina Graham,nm0334159
+http://www.wikidata.org/entity/Q151972,Josephine Baker,nm0001927
+http://www.wikidata.org/entity/Q152082,Ron Canada,nm0133474
+http://www.wikidata.org/entity/Q152453,Keri Hilson,nm2778747
+http://www.wikidata.org/entity/Q155079,Missy Elliott,nm1055396
+http://www.wikidata.org/entity/Q155412,Toni Braxton,nm0004772
+http://www.wikidata.org/entity/Q155700,Chris Brown,nm2093097
+http://www.wikidata.org/entity/Q161877,Ashanti,nm1215338
+http://www.wikidata.org/entity/Q162202,Nicki Minaj,nm3747326
+http://www.wikidata.org/entity/Q162634,E-40,nm0246985
+http://www.wikidata.org/entity/Q167635,"Tyler, The Creator",nm4360094
+http://www.wikidata.org/entity/Q169452,Shaquille O'Neal,nm0641944
+http://www.wikidata.org/entity/Q172303,Tyra Banks,nm0004723
+http://www.wikidata.org/entity/Q172678,Samuel L. Jackson,nm0000168
+http://www.wikidata.org/entity/Q461691,Frank McRae,nm0574433
+http://www.wikidata.org/entity/Q461762,Aunjanue Ellis,nm0254712
+http://www.wikidata.org/entity/Q462118,Pearl Bailey,nm0047440
+http://www.wikidata.org/entity/Q463184,LaVern Baker,nm0048673
+http://www.wikidata.org/entity/Q463321,Jamil Walker Smith,nm0808606
+http://www.wikidata.org/entity/Q463397,Andre Braugher,nm0105672
+http://www.wikidata.org/entity/Q463536,Hill Harper,nm0004991
+http://www.wikidata.org/entity/Q463644,Bob Sapp,nm1452211
+http://www.wikidata.org/entity/Q465362,Andre Kinney,nm1173764
+http://www.wikidata.org/entity/Q465556,Annie Ilonzeh,nm2679753
+http://www.wikidata.org/entity/Q465955,Thelma Houston,nm0396904
+http://www.wikidata.org/entity/Q466379,Keesha Sharp,nm1077920
+http://www.wikidata.org/entity/Q467690,Nancy Wilson,nm0933897
+http://www.wikidata.org/entity/Q469273,Jaimee Foxworth,nm0289340
+http://www.wikidata.org/entity/Q469745,Victoria Rowell,nm0005389
+http://www.wikidata.org/entity/Q470153,Reginald VelJohnson,nm0001817
+http://www.wikidata.org/entity/Q471018,Ernie Hudson,nm0001368
+http://www.wikidata.org/entity/Q471128,Chi McBride,nm0564277
+http://www.wikidata.org/entity/Q1137084,Countess Vaughn,nm0891153
+http://www.wikidata.org/entity/Q1139685,Bokeem Woodbine,nm0940158
+http://www.wikidata.org/entity/Q1139717,Cress Williams,nm0930317
+http://www.wikidata.org/entity/Q1147939,Cynda Williams,nm0930326
+http://www.wikidata.org/entity/Q1152239,Drag-On,nm0236657
+http://www.wikidata.org/entity/Q1153310,"Gary Clark, Jr.",nm2237175
+http://www.wikidata.org/entity/Q1158132,Damaine Radcliff,nm1690482
+http://www.wikidata.org/entity/Q1158726,Damon Wayans Jr.,nm0915458
+http://www.wikidata.org/entity/Q1179680,DeWayne Jessie,nm0422221
+http://www.wikidata.org/entity/Q1182239,Dedrick D. Gobert,nm0323617
+http://www.wikidata.org/entity/Q1189338,Tiffany Hines,nm2015692
+http://www.wikidata.org/entity/Q1189393,Texas Battle,nm1564024
+http://www.wikidata.org/entity/Q1189487,Rose Rollins,nm0738452
+http://www.wikidata.org/entity/Q1198897,S. Epatha Merkerson,nm0580924
+http://www.wikidata.org/entity/Q1207488,De'voreaux White,nm0924636
+http://www.wikidata.org/entity/Q1233832,Doctor Dré,nm0237321
+http://www.wikidata.org/entity/Q1236595,Marcus Chong,nm0159059
+http://www.wikidata.org/entity/Q1239413,Don Pedro Colley,nm0171824
+http://www.wikidata.org/entity/Q1246911,Rod Perry,nm0675272
+http://www.wikidata.org/entity/Q1253845,J. August Richards,nm0724124
+http://www.wikidata.org/entity/Q1258697,Drew Bundini Brown,nm0113467
+http://www.wikidata.org/entity/Q1281640,John Kitzmiller,nm0457839
+http://www.wikidata.org/entity/Q1286406,Kevin Grevioux,nm0340485
+http://www.wikidata.org/entity/Q1289871,Terry Carter,nm0141956
+http://www.wikidata.org/entity/Q1291441,Michelle Hurd,nm0403335
+http://www.wikidata.org/entity/Q1306231,Troy Beyer,nm0004752
+http://www.wikidata.org/entity/Q1308273,Noble Johnson,nm0425903
+http://www.wikidata.org/entity/Q1319798,Aldis Hodge,nm0388038
+http://www.wikidata.org/entity/Q1319836,Elijah Kelley,nm0445903
+http://www.wikidata.org/entity/Q1321005,Wood Harris,nm0365445
+http://www.wikidata.org/entity/Q1322660,Tim Meadows,nm0005218
+http://www.wikidata.org/entity/Q1332579,James Gaines,nm0301330
+http://www.wikidata.org/entity/Q1337159,Tony Burton,nm0123748
+http://www.wikidata.org/entity/Q1345052,Joe Seneca,nm0784171
+http://www.wikidata.org/entity/Q1346591,Roger E. Mosley,nm0608853
+http://www.wikidata.org/entity/Q1348272,James R. Black,nm0085316
+http://www.wikidata.org/entity/Q1349215,Malcolm-Jamal Warner,nm0912528
+http://www.wikidata.org/entity/Q1351435,Eric Laneuville,nm0485637
+http://www.wikidata.org/entity/Q1352765,Mopreme Shakur,nm1241878
+http://www.wikidata.org/entity/Q1364104,Sean Michaels,nm0584489
+http://www.wikidata.org/entity/Q1366768,Tom Lister Jr.,nm0001474
+http://www.wikidata.org/entity/Q1381384,Lil' JJ,nm1807170
+http://www.wikidata.org/entity/Q1387383,Albert Hall,nm0355278
+http://www.wikidata.org/entity/Q1388636,Tequan Richmond,nm1343331
+http://www.wikidata.org/entity/Q1392387,Mark Christopher Lawrence,nm0492924
+http://www.wikidata.org/entity/Q1395654,Irma P. Hall,nm0355659
+http://www.wikidata.org/entity/Q1396413,Nicole Wray,nm1893919
+http://www.wikidata.org/entity/Q1396471,Wendy Raquel Robinson,nm0733185
+http://www.wikidata.org/entity/Q1397155,Wayne Brady,nm0103750
+http://www.wikidata.org/entity/Q1435910,Fonzworth Bentley,nm1347765
+http://www.wikidata.org/entity/Q1444836,Fredi Washington,nm0913444
+http://www.wikidata.org/entity/Q235310,Alexis Jordan,nm2933580
+http://www.wikidata.org/entity/Q235511,Taraji P. Henson,nm0378245
+http://www.wikidata.org/entity/Q235952,Gladys Knight,nm0460912
+http://www.wikidata.org/entity/Q236303,Dana Davis,nm1048128
+http://www.wikidata.org/entity/Q236318,Faith Evans,nm0262751
+http://www.wikidata.org/entity/Q237194,Wanda Sykes,nm0843100
+http://www.wikidata.org/entity/Q237273,Salli Richardson,nm0724757
+http://www.wikidata.org/entity/Q238081,Cicely Tyson,nm0001807
+http://www.wikidata.org/entity/Q238361,Della Reese,nm0005343
+http://www.wikidata.org/entity/Q239240,Julia Jones,nm1247407
+http://www.wikidata.org/entity/Q239328,Penny Johnson Jerald,nm0425982
+http://www.wikidata.org/entity/Q239464,Eve,nm1073992
+http://www.wikidata.org/entity/Q240233,Diahann Carroll,nm0140792
+http://www.wikidata.org/entity/Q240541,Tatyana Ali,nm0004700
+http://www.wikidata.org/entity/Q240880,Jasika Nicole,nm1896248
+http://www.wikidata.org/entity/Q241160,Tracie Thoms,nm1139632
+http://www.wikidata.org/entity/Q241660,Angie Stone,nm1102921
+http://www.wikidata.org/entity/Q241783,Sanaa Lathan,nm0005125
+http://www.wikidata.org/entity/Q241800,Aisha Tyler,nm0878768
+http://www.wikidata.org/entity/Q242725,Ethel Waters,nm0914083
+http://www.wikidata.org/entity/Q242739,Phylicia Rashād,nm0711118
+http://www.wikidata.org/entity/Q246970,Skin Diamond,nm3701813
+http://www.wikidata.org/entity/Q247488,Diesel Washington,nm2486193
+http://www.wikidata.org/entity/Q248915,Michael Jai White,nm0925220
+http://www.wikidata.org/entity/Q254038,Nichelle Nichols,nm0629667
+http://www.wikidata.org/entity/Q254341,Linda Hopkins,nm0394223
+http://www.wikidata.org/entity/Q257271,Loretta Devine,nm0222643
+http://www.wikidata.org/entity/Q257286,Meagan Good,nm0328709
+http://www.wikidata.org/entity/Q257302,LeToya Luckett,nm0524722
+http://www.wikidata.org/entity/Q259825,Anika Noni Rose,nm0741242
+http://www.wikidata.org/entity/Q260211,Yaya DaCosta,nm1861624
+http://www.wikidata.org/entity/Q261244,Sydney Tamiia Poitier,nm0688624
+http://www.wikidata.org/entity/Q262495,Robin Givens,nm0002101
+http://www.wikidata.org/entity/Q263501,Debbie Allen,nm0000739
+http://www.wikidata.org/entity/Q263906,Traci Bingham,nm0000943
+http://www.wikidata.org/entity/Q264960,Tisha Campbell-Martin,nm0132896
+http://www.wikidata.org/entity/Q265661,Columbus Short,nm1551922
+http://www.wikidata.org/entity/Q266270,Yaphet Kotto,nm0001433
+http://www.wikidata.org/entity/Q267422,Joy Bryant,nm0117146
+http://www.wikidata.org/entity/Q267676,Audra McDonald,nm0567653
+http://www.wikidata.org/entity/Q267685,Butterfly McQueen,nm0574335
+http://www.wikidata.org/entity/Q268278,Jada Fire,nm1342340
+http://www.wikidata.org/entity/Q268549,Sherri Shepherd,nm0791868
+http://www.wikidata.org/entity/Q269791,Daphne Maxwell Reid,nm0717227
+http://www.wikidata.org/entity/Q270123,Kiely Williams,nm1170124
+http://www.wikidata.org/entity/Q270762,Darlene Love,nm0522306
+http://www.wikidata.org/entity/Q270869,Yolanda Adams,nm0011444
+http://www.wikidata.org/entity/Q271464,Terry Crews,nm0187719
+http://www.wikidata.org/entity/Q271840,Nell Carter,nm0141846
+http://www.wikidata.org/entity/Q271846,Margaret Avery,nm0001923
+http://www.wikidata.org/entity/Q271863,Isabel Sanford,nm0762567
+http://www.wikidata.org/entity/Q272019,Don Cheadle,nm0000332
+http://www.wikidata.org/entity/Q272637,Katherine Dunham,nm0242281
+http://www.wikidata.org/entity/Q272956,Nia Long,nm0000505
+http://www.wikidata.org/entity/Q273044,Keke Palmer,nm1551130
+http://www.wikidata.org/entity/Q273055,R. Kelly,nm0005084
+http://www.wikidata.org/entity/Q273173,Jonelle Allen,nm0020693
+http://www.wikidata.org/entity/Q273233,Paul Robeson,nm0732079
+http://www.wikidata.org/entity/Q274592,India,nm0408510
+http://www.wikidata.org/entity/Q275084,Drew Sidora,nm0796676
+http://www.wikidata.org/entity/Q276218,Natashia Williams,nm0931372
+http://www.wikidata.org/entity/Q279834,Bill Nunn,nm0638056
+http://www.wikidata.org/entity/Q282820,Bernie Hamilton,nm0357745
+http://www.wikidata.org/entity/Q284254,Karyn Parsons,nm0663854
+http://www.wikidata.org/entity/Q286022,Common,nm0996669
+http://www.wikidata.org/entity/Q288680,Omar Benson Miller,nm0589077
+http://www.wikidata.org/entity/Q290576,Lola Falana,nm0265832
+http://www.wikidata.org/entity/Q291628,Erika Alexander,nm0004697
+http://www.wikidata.org/entity/Q292623,Farrah Franklin,nm0221822
+http://www.wikidata.org/entity/Q293275,Susie Garrett,nm0308215
+http://www.wikidata.org/entity/Q294449,Lil Jon,nm1441760
+http://www.wikidata.org/entity/Q294912,Richard Pryor,nm0001640
+http://www.wikidata.org/entity/Q295107,Mr. T,nm0001558
+http://www.wikidata.org/entity/Q296500,Terrence Howard,nm0005024
+http://www.wikidata.org/entity/Q297334,Omar Epps,nm0004898
+http://www.wikidata.org/entity/Q297816,Sammy Davis Jr.,nm0002035
+http://www.wikidata.org/entity/Q298209,Willow Smith,nm2405238
+http://www.wikidata.org/entity/Q299138,Kid Cudi,nm3264596
+http://www.wikidata.org/entity/Q304322,Faune A. Chambers,nm0150330
+http://www.wikidata.org/entity/Q309843,Ja Rule,nm0750019
+http://www.wikidata.org/entity/Q309941,Ice-T,nm0001384
+http://www.wikidata.org/entity/Q310315,Ving Rhames,nm0000609
+http://www.wikidata.org/entity/Q310551,Harold Perrineau,nm0674782
+http://www.wikidata.org/entity/Q310785,Marlon Wayans,nm0005541
+http://www.wikidata.org/entity/Q311962,Mike Epps,nm0258402
+http://www.wikidata.org/entity/Q312173,Bow Wow,nm0510168
+http://www.wikidata.org/entity/Q312294,Christopher Judge,nm0431895
+http://www.wikidata.org/entity/Q314508,Rockmond Dunbar,nm0241870
+http://www.wikidata.org/entity/Q316706,Sugar Ray Robinson,nm0733124
+http://www.wikidata.org/entity/Q316955,Michael Dorn,nm0000373
+http://www.wikidata.org/entity/Q317370,Bobby Lashley,nm2048764
+http://www.wikidata.org/entity/Q318938,Bubba Smith,nm0807571
+http://www.wikidata.org/entity/Q320218,Carl Weathers,nm0001835
+http://www.wikidata.org/entity/Q322056,Lance Reddick,nm0714698
+http://www.wikidata.org/entity/Q324003,Craig Lamar Traylor,nm0871493
+http://www.wikidata.org/entity/Q329719,Louis Gossett,nm0001283
+http://www.wikidata.org/entity/Q343059,Jeffrey Wright,nm0942482
+http://www.wikidata.org/entity/Q344384,Damon Dash,nm0201965
+http://www.wikidata.org/entity/Q344576,Paul Winfield,nm0934902
+http://www.wikidata.org/entity/Q348738,Brandon T. Jackson,nm1040365
+http://www.wikidata.org/entity/Q706513,Charles S. Dutton,nm0001165
+http://www.wikidata.org/entity/Q706988,Shannon Briggs,nm1511647
+http://www.wikidata.org/entity/Q707814,Ken Norton,nm0636243
+http://www.wikidata.org/entity/Q708054,Cleavant Derricks,nm0220598
+http://www.wikidata.org/entity/Q708172,Nipsey Russell,nm0751369
+http://www.wikidata.org/entity/Q708506,David Banner,nm1755886
+http://www.wikidata.org/entity/Q710169,Courtney B. Vance,nm0005524
+http://www.wikidata.org/entity/Q711711,Hinton Battle,nm0061507
+http://www.wikidata.org/entity/Q711870,Franklyn Seales,nm0780546
+http://www.wikidata.org/entity/Q712964,Darius McCrary,nm0566902
+http://www.wikidata.org/entity/Q713640,Doug E. Doug,nm0234791
+http://www.wikidata.org/entity/Q714375,Leon Thomas III,nm2193861
+http://www.wikidata.org/entity/Q715175,Vanity,nm0889152
+http://www.wikidata.org/entity/Q715801,Ted Ross,nm0743874
+http://www.wikidata.org/entity/Q716099,Hopsin,nm1056907
+http://www.wikidata.org/entity/Q722042,Master P,nm0005290
+http://www.wikidata.org/entity/Q722312,Bill Duke,nm0004886
+http://www.wikidata.org/entity/Q722946,James Baskett,nm0059934
+http://www.wikidata.org/entity/Q723011,Tyler James Williams,nm1927701
+http://www.wikidata.org/entity/Q724501,Juvenile,nm1175788
+http://www.wikidata.org/entity/Q726003,Percy Daggs III,nm1478045
+http://www.wikidata.org/entity/Q726459,Rex Ingram,nm0002270
+http://www.wikidata.org/entity/Q726526,James Edwards,nm0250066
+http://www.wikidata.org/entity/Q727730,Wendell Pierce,nm0682495
+http://www.wikidata.org/entity/Q728496,Jesse L. Martin,nm0552509
+http://www.wikidata.org/entity/Q728936,Daryl Mitchell,nm0593258
+http://www.wikidata.org/entity/Q730108,Sisqó,nm0005437
+http://www.wikidata.org/entity/Q730261,Fredro Starr,nm0823507
+http://www.wikidata.org/entity/Q741555,Mykelti Williamson,nm0932112
+http://www.wikidata.org/entity/Q742498,Ty Hodges,nm0388129
+http://www.wikidata.org/entity/Q743598,Matthew Beard,nm0063915
+http://www.wikidata.org/entity/Q748404,Tika Sumpter,nm1754366
+http://www.wikidata.org/entity/Q766783,Moses Gunn,nm0348214
+http://www.wikidata.org/entity/Q767039,Tiger Tyson,nm1767587
+http://www.wikidata.org/entity/Q768073,Tahj Mowry,nm0005254
+http://www.wikidata.org/entity/Q770841,Ben Vereen,nm0893965
+http://www.wikidata.org/entity/Q774734,Adriane Lenox,nm0502180
+http://www.wikidata.org/entity/Q779416,Todd Bridges,nm0004775
+http://www.wikidata.org/entity/Q786003,Michael Ealy,nm1013003
+http://www.wikidata.org/entity/Q795220,B.G.,nm1209214
+http://www.wikidata.org/entity/Q809099,Barry Shabaka Henley,nm0377106
+http://www.wikidata.org/entity/Q862028,Bill Cobbs,nm0167850
+http://www.wikidata.org/entity/Q862416,Bill Robinson,nm0732408
+http://www.wikidata.org/entity/Q863030,Billy Blanks,nm0087593
+http://www.wikidata.org/entity/Q880598,Black Thought,nm0873699
+http://www.wikidata.org/entity/Q888675,Bobby Short,nm0795027
+http://www.wikidata.org/entity/Q908998,Dooley Wilson,nm0933330
+http://www.wikidata.org/entity/Q919386,Trick Daddy,nm1401905
+http://www.wikidata.org/entity/Q921518,Michael K. Williams,nm0931324
+http://www.wikidata.org/entity/Q921642,Richard Biggs,nm0081863
+http://www.wikidata.org/entity/Q922893,Willie Gault,nm0310112
+http://www.wikidata.org/entity/Q925886,Allen Hoskins,nm0396012
+http://www.wikidata.org/entity/Q926362,Samuel E. Wright,nm0942787
+http://www.wikidata.org/entity/Q926912,Craig Robinson,nm0732497
+http://www.wikidata.org/entity/Q927916,Jim Brown,nm0000987
+http://www.wikidata.org/entity/Q929526,Shawn Harrison,nm0365873
+http://www.wikidata.org/entity/Q937117,James Lesure,nm0504571
+http://www.wikidata.org/entity/Q938785,Mr. Marcus,nm0546155
+http://www.wikidata.org/entity/Q940699,Michael Boatman,nm0090225
+http://www.wikidata.org/entity/Q941232,Jascha Washington,nm0913465
+http://www.wikidata.org/entity/Q941415,Duane Jones,nm0427977
+http://www.wikidata.org/entity/Q941922,Jazsmin Lewis,nm0507320
+http://www.wikidata.org/entity/Q941960,Sherman Hemsley,nm0376200
+http://www.wikidata.org/entity/Q943589,Frankie Faison,nm0265670
+http://www.wikidata.org/entity/Q943762,Robert DoQui,nm0233306
+http://www.wikidata.org/entity/Q945512,Rupert Crosse,nm0189313
+http://www.wikidata.org/entity/Q950104,Michael Jace,nm0413052
+http://www.wikidata.org/entity/Q953841,Richard Brooks,nm1444462
+http://www.wikidata.org/entity/Q956808,Lamont Bentley,nm0072840
+http://www.wikidata.org/entity/Q957254,Jeffrey D. Sams,nm0760254
+http://www.wikidata.org/entity/Q958489,Justin Guarini,nm1227702
+http://www.wikidata.org/entity/Q959052,Sean Patrick Thomas,nm0859503
+http://www.wikidata.org/entity/Q963129,Lawrence Taylor,nm0852753
+http://www.wikidata.org/entity/Q963740,The Lady of Rage,nm0706437
+http://www.wikidata.org/entity/Q963869,Raymond St. Jacques,nm0820566
+http://www.wikidata.org/entity/Q964468,Gene Anthony Ray,nm0712833
+http://www.wikidata.org/entity/Q964998,Al Matthews,nm0559922
+http://www.wikidata.org/entity/Q971854,John Wesley,nm0921746
+http://www.wikidata.org/entity/Q973783,Reg E. Cathey,nm0146146
+http://www.wikidata.org/entity/Q981809,Mehcad Brooks,nm1419635
+http://www.wikidata.org/entity/Q982795,Seth Gilliam,nm0319121
+http://www.wikidata.org/entity/Q1004881,Bumper Robinson,nm0732436
+http://www.wikidata.org/entity/Q1023788,CJ Mac,nm0531158
+http://www.wikidata.org/entity/Q1031985,Canada Lee,nm0496938
+http://www.wikidata.org/entity/Q1033016,Halle Berry,nm0000932
+http://www.wikidata.org/entity/Q1058675,Mike Colter,nm1591496
+http://www.wikidata.org/entity/Q1059226,James McDaniel,nm0005206
+http://www.wikidata.org/entity/Q1068591,Chaz Lamar Shepherd,nm0791755
+http://www.wikidata.org/entity/Q1069152,Chelsea Tavares,nm1553945
+http://www.wikidata.org/entity/Q1070518,Cheryl Dunye,nm0243109
+http://www.wikidata.org/entity/Q1095721,Clark Johnson,nm0424800
+http://www.wikidata.org/entity/Q1095834,Clarke Peters,nm0676370
+http://www.wikidata.org/entity/Q1099628,Cleavon Little,nm0001476
+http://www.wikidata.org/entity/Q1112005,Queen Latifah,nm0001451
+http://www.wikidata.org/entity/Q1125651,Thom Barry,nm0058175
+http://www.wikidata.org/entity/Q1132666,Corey Reynolds,nm1556631
+http://www.wikidata.org/entity/Q350208,Dennis Haysbert,nm0371660
+http://www.wikidata.org/entity/Q355038,Gary Dourdan,nm0235427
+http://www.wikidata.org/entity/Q356541,Phil LaMarr,nm0482851
+http://www.wikidata.org/entity/Q357327,Adina Howard,nm1683787
+http://www.wikidata.org/entity/Q358306,Jaleel White,nm0924918
+http://www.wikidata.org/entity/Q358345,Billy Dee Williams,nm0001850
+http://www.wikidata.org/entity/Q360531,Mahershala Ali,nm0991810
+http://www.wikidata.org/entity/Q360807,Don Franklin,nm0291405
+http://www.wikidata.org/entity/Q361587,Kevin Peter Hall,nm0001310
+http://www.wikidata.org/entity/Q365292,Adolph Caesar,nm0128360
+http://www.wikidata.org/entity/Q365682,Gordon Parks,nm0662953
+http://www.wikidata.org/entity/Q366012,Avery Brooks,nm0000984
+http://www.wikidata.org/entity/Q367469,Kadeem Hardison,nm0362429
+http://www.wikidata.org/entity/Q367653,Gregory Hines,nm0002138
+http://www.wikidata.org/entity/Q368587,Tommy Davidson,nm0203508
+http://www.wikidata.org/entity/Q370102,Shawn Wayans,nm0915465
+http://www.wikidata.org/entity/Q370918,Keith David,nm0202966
+http://www.wikidata.org/entity/Q371943,Thalmus Rasulala,nm0711560
+http://www.wikidata.org/entity/Q372613,Phill Lewis,nm0507629
+http://www.wikidata.org/entity/Q374181,Richard T. Jones,nm0429114
+http://www.wikidata.org/entity/Q376031,Gary Anthony Williams,nm0930637
+http://www.wikidata.org/entity/Q380433,Al Sharpton,nm0789314
+http://www.wikidata.org/entity/Q382420,Damon Wayans,nm0001834
+http://www.wikidata.org/entity/Q401182,Ahmed Best,nm0078886
+http://www.wikidata.org/entity/Q404341,Grace Hightower,nm2984460
+http://www.wikidata.org/entity/Q430849,Joie Lee,nm0497578
+http://www.wikidata.org/entity/Q432552,KRS-One,nm0472398
+http://www.wikidata.org/entity/Q433154,Rachel True,nm0874086
+http://www.wikidata.org/entity/Q433355,Patricia Belcher,nm0006970
+http://www.wikidata.org/entity/Q433692,Nicole Ari Parker,nm0662519
+http://www.wikidata.org/entity/Q434111,Alaina Reed Hall,nm0355271
+http://www.wikidata.org/entity/Q434501,Greg Morris,nm0606569
+http://www.wikidata.org/entity/Q434745,Tinashe,nm0434186
+http://www.wikidata.org/entity/Q434913,Cam'ron,nm1004112
+http://www.wikidata.org/entity/Q435315,Olivia Brown,nm0114368
+http://www.wikidata.org/entity/Q435354,Raven Goodwin,nm0329538
+http://www.wikidata.org/entity/Q435807,Taylor Parks,nm2264260
+http://www.wikidata.org/entity/Q436351,Hannah Hodson,nm1970053
+http://www.wikidata.org/entity/Q436422,Anne-Marie Johnson,nm0424509
+http://www.wikidata.org/entity/Q437375,Tamar Estine Braxton,nm1330155
+http://www.wikidata.org/entity/Q438014,Regina Taylor,nm0853040
+http://www.wikidata.org/entity/Q438366,Rozonda Thomas,nm0157612
+http://www.wikidata.org/entity/Q438843,Vanessa Blue,nm0089546
+http://www.wikidata.org/entity/Q439053,LisaGay Hamilton,nm0004986
+http://www.wikidata.org/entity/Q439423,Tristan Wilds,nm2080933
+http://www.wikidata.org/entity/Q440070,Lark Voorhies,nm0903397
+http://www.wikidata.org/entity/Q441528,Lynn Swann,nm0841712
+http://www.wikidata.org/entity/Q441634,LaTanya Richardson,nm0724665
+http://www.wikidata.org/entity/Q441834,Naturi Naughton,nm1166613
+http://www.wikidata.org/entity/Q441836,Sonja Sohn,nm0812308
+http://www.wikidata.org/entity/Q441888,Eddie Griffin,nm0341176
+http://www.wikidata.org/entity/Q442302,Ola Ray,nm0712954
+http://www.wikidata.org/entity/Q443292,Brooke Valentine,nm1874124
+http://www.wikidata.org/entity/Q443503,Midori,nm0585636
+http://www.wikidata.org/entity/Q444101,Tyrin Turner,nm0877928
+http://www.wikidata.org/entity/Q444344,Yvette Nicole Brown,nm1304328
+http://www.wikidata.org/entity/Q445417,Mack 10,nm0532924
+http://www.wikidata.org/entity/Q446467,Barbara McNair,nm0573552
+http://www.wikidata.org/entity/Q446493,Richard Roundtree,nm0745780
+http://www.wikidata.org/entity/Q446518,Heather Hunter,nm0402836
+http://www.wikidata.org/entity/Q447022,Debbi Morgan,nm0005247
+http://www.wikidata.org/entity/Q447273,Tamara Dobson,nm0229939
+http://www.wikidata.org/entity/Q447605,Brandon Adams,nm0010781
+http://www.wikidata.org/entity/Q447710,Kenya Moore,nm0601469
+http://www.wikidata.org/entity/Q448141,Jasmine Guy,nm0004982
+http://www.wikidata.org/entity/Q448837,André 3000,nm0071275
+http://www.wikidata.org/entity/Q448876,Melba Moore,nm0601610
+http://www.wikidata.org/entity/Q448975,Kimberly Elise,nm0253708
+http://www.wikidata.org/entity/Q449287,Tiffany Evans,nm1793169
+http://www.wikidata.org/entity/Q449634,Da Brat,nm0004771
+http://www.wikidata.org/entity/Q450846,Franklyn Ajaye,nm0014977
+http://www.wikidata.org/entity/Q452232,Tim Russ,nm0750913
+http://www.wikidata.org/entity/Q452307,Romeo Miller,nm0999075
+http://www.wikidata.org/entity/Q452552,Grand L. Bush,nm0005598
+http://www.wikidata.org/entity/Q453065,Beverly Todd,nm0865119
+http://www.wikidata.org/entity/Q453620,Yara Shahidi,nm2780578
+http://www.wikidata.org/entity/Q454009,Gail Fisher,nm0279500
+http://www.wikidata.org/entity/Q454035,Tamala Jones,nm0005067
+http://www.wikidata.org/entity/Q454328,Stacey Dash,nm0001107
+http://www.wikidata.org/entity/Q455234,Gloria Foster,nm0287825
+http://www.wikidata.org/entity/Q455395,Lexington Steele,nm0824615
+http://www.wikidata.org/entity/Q455441,Domonique Simone,nm0607480
+http://www.wikidata.org/entity/Q456056,Brooklyn Sudano,nm1479002
+http://www.wikidata.org/entity/Q456199,Kim Wayans,nm0915462
+http://www.wikidata.org/entity/Q456211,Juanita Moore,nm0601428
+http://www.wikidata.org/entity/Q456258,Charles Robinson,nm0732455
+http://www.wikidata.org/entity/Q456712,Veronica Webb,nm0005542
+http://www.wikidata.org/entity/Q456753,Giovonnie Samuels,nm1123254
+http://www.wikidata.org/entity/Q456894,Tichina Arnold,nm0036651
+http://www.wikidata.org/entity/Q456903,Roxie Roker,nm0737967
+http://www.wikidata.org/entity/Q456938,Jazz Raycole,nm0226934
+http://www.wikidata.org/entity/Q457022,Doc Shaw,nm2480883
+http://www.wikidata.org/entity/Q457180,Sheryl Lee Ralph,nm0005336
+http://www.wikidata.org/entity/Q458426,Misty Stone,nm2402354
+http://www.wikidata.org/entity/Q458807,Janet Jacme,nm0414172
+http://www.wikidata.org/entity/Q459007,Joe Morton,nm0608012
+http://www.wikidata.org/entity/Q459918,Lynn Whitfield,nm0005551
+http://www.wikidata.org/entity/Q460355,Aloma Wright,nm0942193
+http://www.wikidata.org/entity/Q460513,K. D. Aubert,nm1147702
+http://www.wikidata.org/entity/Q461146,Gina Ravera,nm0712406
+http://www.wikidata.org/entity/Q532944,Eriq La Salle,nm0005113
+http://www.wikidata.org/entity/Q533369,Saul Williams,nm0931654
+http://www.wikidata.org/entity/Q534006,Taye Diggs,nm0004875
+http://www.wikidata.org/entity/Q534234,Persia White,nm0925316
+http://www.wikidata.org/entity/Q534352,Vanessa Bell Calloway,nm0068599
+http://www.wikidata.org/entity/Q534371,Tracee Ellis Ross,nm0743896
+http://www.wikidata.org/entity/Q535841,Marpessa Dawn,nm0206026
+http://www.wikidata.org/entity/Q536025,N'Bushe Wright,nm0942668
+http://www.wikidata.org/entity/Q536030,Monica Calhoun,nm0004793
+http://www.wikidata.org/entity/Q536308,D. L. Hughley,nm0401018
+http://www.wikidata.org/entity/Q537228,Taral Hicks,nm0382968
+http://www.wikidata.org/entity/Q538542,Lonette McKee,nm0571188
+http://www.wikidata.org/entity/Q540608,Rashida Jones,nm0429069
+http://www.wikidata.org/entity/Q542262,Jenifer Lewis,nm0507338
+http://www.wikidata.org/entity/Q542267,Ray J,nm0005043
+http://www.wikidata.org/entity/Q545507,Camille Winbush,nm0934563
+http://www.wikidata.org/entity/Q552900,Kenan Thompson,nm0860380
+http://www.wikidata.org/entity/Q472053,Morris Chestnut,nm0004820
+http://www.wikidata.org/entity/Q475405,Ernie Morrison,nm0607138
+http://www.wikidata.org/entity/Q477819,Gregory Alan Williams,nm0930707
+http://www.wikidata.org/entity/Q492327,Cedric the Entertainer,nm0147825
+http://www.wikidata.org/entity/Q493077,James Avery,nm0043041
+http://www.wikidata.org/entity/Q493227,Andre Royo,nm0747420
+http://www.wikidata.org/entity/Q498820,John Amos,nm0025309
+http://www.wikidata.org/entity/Q499063,Roscoe Lee Browne,nm0001975
+http://www.wikidata.org/entity/Q500628,Lamorne Morris,nm2031358
+http://www.wikidata.org/entity/Q501996,Scatman Crothers,nm0001079
+http://www.wikidata.org/entity/Q503399,Paul James,nm1482818
+http://www.wikidata.org/entity/Q505256,Joe Greene,nm0338797
+http://www.wikidata.org/entity/Q507985,Shar Jackson,nm0005046
+http://www.wikidata.org/entity/Q508359,Nona Gaye,nm0310850
+http://www.wikidata.org/entity/Q508564,Vonetta McGee,nm0569144
+http://www.wikidata.org/entity/Q510998,Lynne Moody,nm0600508
+http://www.wikidata.org/entity/Q511554,Anthony Mackie,nm1107001
+http://www.wikidata.org/entity/Q512896,Erik King,nm0454701
+http://www.wikidata.org/entity/Q515562,Cymphonique Miller,nm2597467
+http://www.wikidata.org/entity/Q515632,Ossie Davis,nm0001115
+http://www.wikidata.org/entity/Q517362,Damien Dante Wayans,nm1349040
+http://www.wikidata.org/entity/Q519985,Deborah Pratt,nm0695445
+http://www.wikidata.org/entity/Q522533,Michael Winslow,nm0935498
+http://www.wikidata.org/entity/Q523278,John Beasley,nm0064040
+http://www.wikidata.org/entity/Q524704,Theresa Randle,nm0005337
+http://www.wikidata.org/entity/Q525304,Blair Underwood,nm0005516
+http://www.wikidata.org/entity/Q526620,Alfre Woodard,nm0005569
+http://www.wikidata.org/entity/Q528038,Victoria Dillard,nm0226851
+http://www.wikidata.org/entity/Q529906,Melissa De Sousa,nm0211726
+http://www.wikidata.org/entity/Q530355,Tiffany Pollard,nm2428135
+http://www.wikidata.org/entity/Q531888,Fayard Nicholas,nm0629379
+http://www.wikidata.org/entity/Q554159,D. B. Woodside,nm0940851
+http://www.wikidata.org/entity/Q555460,Lee Daniels,nm0200005
+http://www.wikidata.org/entity/Q557948,Katt Williams,nm1139343
+http://www.wikidata.org/entity/Q558324,Sinbad,nm0005435
+http://www.wikidata.org/entity/Q559074,Charlie Murphy,nm0614151
+http://www.wikidata.org/entity/Q560354,David Edwards,nm1299171
+http://www.wikidata.org/entity/Q561396,Roscoe Orman,nm0650207
+http://www.wikidata.org/entity/Q562596,David Alan Grier,nm0004979
+http://www.wikidata.org/entity/Q572618,Chad Coleman,nm0170968
+http://www.wikidata.org/entity/Q586807,Paula Kelly,nm0446780
+http://www.wikidata.org/entity/Q589797,Tony Cox,nm0185272
+http://www.wikidata.org/entity/Q598978,Chuck Cooper,nm0177946
+http://www.wikidata.org/entity/Q606215,Ruben Santiago-Hudson,nm0763650
+http://www.wikidata.org/entity/Q606599,Arsenio Hall,nm0002119
+http://www.wikidata.org/entity/Q608709,Harry Lennix,nm0502015
+http://www.wikidata.org/entity/Q609860,Woody Strode,nm0834754
+http://www.wikidata.org/entity/Q610307,Antwon Tanner,nm0849612
+http://www.wikidata.org/entity/Q614402,Denzel Whitaker,nm1091701
+http://www.wikidata.org/entity/Q618352,Kevin Hart,nm0366389
+http://www.wikidata.org/entity/Q636324,Rocky Carroll,nm0140969
+http://www.wikidata.org/entity/Q636653,Danai Gurira,nm1775091
+http://www.wikidata.org/entity/Q643246,Carl Franklin,nm0002083
+http://www.wikidata.org/entity/Q643472,Otis Young,nm0949935
+http://www.wikidata.org/entity/Q648897,Derek Luke,nm1035682
+http://www.wikidata.org/entity/Q660241,Aries Spears,nm0817341
+http://www.wikidata.org/entity/Q666745,Gaius Charles,nm2173080
+http://www.wikidata.org/entity/Q686301,Tyler Perry,nm1347153
+http://www.wikidata.org/entity/Q690974,Brandy Norwood,nm0005275
+http://www.wikidata.org/entity/Q693339,Arnetia Walker,nm0907535
+http://www.wikidata.org/entity/Q704742,Sticky Fingaz,nm0277727
+http://www.wikidata.org/entity/Q705715,RuPaul,nm0750412
+http://www.wikidata.org/entity/Q2751626,Ben Guillory,nm0347140
+http://www.wikidata.org/entity/Q2911728,Paul Mooney,nm0600763
+http://www.wikidata.org/entity/Q2957862,Charlayne Woodard,nm0940128
+http://www.wikidata.org/entity/Q2962230,Chelsea Brown,nm0113238
+http://www.wikidata.org/entity/Q2975569,Clarence Muse,nm0615617
+http://www.wikidata.org/entity/Q3038551,Paul Benjamin,nm0071345
+http://www.wikidata.org/entity/Q3056459,Erica Hubbard,nm0399170
+http://www.wikidata.org/entity/Q3260138,Lou Myers,nm0616786
+http://www.wikidata.org/entity/Q3294040,Mark Curry,nm0193104
+http://www.wikidata.org/entity/Q3295000,Sterling K. Brown,nm1250791
+http://www.wikidata.org/entity/Q3308007,Michael B. Jordan,nm0430107
+http://www.wikidata.org/entity/Q3309607,Novella Nelson,nm0625645
+http://www.wikidata.org/entity/Q3506839,Sydney Park,nm2193008
+http://www.wikidata.org/entity/Q3607216,Aisha Hinds,nm1490300
+http://www.wikidata.org/entity/Q3820592,LaChanze,nm0478447
+http://www.wikidata.org/entity/Q4130151,Danitra Vance,nm0888503
+http://www.wikidata.org/entity/Q4688986,Affion Crockett,nm1649714
+http://www.wikidata.org/entity/Q4690850,Afton Williamson,nm4182855
+http://www.wikidata.org/entity/Q4754805,André Holland,nm2428245
+http://www.wikidata.org/entity/Q4791181,Ariyan A. Johnson,nm0424519
+http://www.wikidata.org/entity/Q4912425,Billy Daniels,nm0199846
+http://www.wikidata.org/entity/Q4956851,Brandon Fobbs,nm1733517
+http://www.wikidata.org/entity/Q1452569,Fred Williamson,nm0004365
+http://www.wikidata.org/entity/Q1562861,Clarence Williams III,nm0929934
+http://www.wikidata.org/entity/Q1591418,IronE Singleton,nm1533036
+http://www.wikidata.org/entity/Q1608534,"Herbert Jefferson, Jr.",nm0420170
+http://www.wikidata.org/entity/Q1651225,Vernon Campbell,nm0132912
+http://www.wikidata.org/entity/Q1712541,Julius Carry,nm0141114
+http://www.wikidata.org/entity/Q1741207,Kiko Ellsworth,nm0255309
+http://www.wikidata.org/entity/Q1741631,Kimberly Scott,nm0779451
+http://www.wikidata.org/entity/Q1751027,Eddie Anderson,nm0026655
+http://www.wikidata.org/entity/Q1754845,William Allen Young,nm0950165
+http://www.wikidata.org/entity/Q1803683,Lawrence Gilliard Jr.,nm0319142
+http://www.wikidata.org/entity/Q1815058,Leigh Whipper,nm0924181
+http://www.wikidata.org/entity/Q1866888,Lloyd Avery II,nm0042998
+http://www.wikidata.org/entity/Q1875893,Charles Malik Whitfield,nm0925916
+http://www.wikidata.org/entity/Q1894212,Robbie Jones,nm0429129
+http://www.wikidata.org/entity/Q1922402,Meshach Taylor,nm0852886
+http://www.wikidata.org/entity/Q1922994,Jim Moody,nm0600490
+http://www.wikidata.org/entity/Q1984585,Virginia Capers,nm0135102
+http://www.wikidata.org/entity/Q1990672,L. Scott Caldwell,nm0129749
+http://www.wikidata.org/entity/Q2002151,DeRay Davis,nm1154986
+http://www.wikidata.org/entity/Q2056689,Ricco Ross,nm0743768
+http://www.wikidata.org/entity/Q2089797,Iris Kyle,
+http://www.wikidata.org/entity/Q2093874,Quinton Aaron,nm2466842
+http://www.wikidata.org/entity/Q2118140,Al Freeman,nm0293272
+http://www.wikidata.org/entity/Q2119412,Adina Porter,nm0692013
+http://www.wikidata.org/entity/Q2183235,Bruce A. Young,nm0949340
+http://www.wikidata.org/entity/Q2233091,Malik Yoba,nm0948272
+http://www.wikidata.org/entity/Q2265254,Ted Lange,nm0486198
+http://www.wikidata.org/entity/Q2340587,Yvette Wilson,nm0934310
+http://www.wikidata.org/entity/Q2351930,Beverly Johnson,nm0424588
+http://www.wikidata.org/entity/Q2452110,Trevor Jackson,nm3630119
+http://www.wikidata.org/entity/Q2452779,J.A. Preston,nm0696430
+http://www.wikidata.org/entity/Q2573710,Sherri Saum,nm0766708
+http://www.wikidata.org/entity/Q2598159,Teresa Graves,nm0336358
+http://www.wikidata.org/entity/Q2657882,Kel Mitchell,nm0005239
+http://www.wikidata.org/entity/Q2660468,"Isiah Whitlock, Jr.",nm0926086
+http://www.wikidata.org/entity/Q6764741,Mario Joyner,nm0431660
+http://www.wikidata.org/entity/Q6827906,Micah Stephen Williams,nm1377341
+http://www.wikidata.org/entity/Q6829397,Michael Colyar,nm0173485
+http://www.wikidata.org/entity/Q4977196,Bruce Bruce,nm1049593
+http://www.wikidata.org/entity/Q4981150,Madame Sul-Te-Wan,nm0837801
+http://www.wikidata.org/entity/Q5006584,C. J. Sanders,nm1468486
+http://www.wikidata.org/entity/Q5036213,Keith Diamond,nm0224659
+http://www.wikidata.org/entity/Q5066520,Chadwick Boseman,nm1569276
+http://www.wikidata.org/entity/Q5170371,Corey Holcomb,nm1189640
+http://www.wikidata.org/entity/Q5248302,Deborah Lacey,nm0479917
+http://www.wikidata.org/entity/Q5333937,Ecstasia Sanders,nm0761540
+http://www.wikidata.org/entity/Q5386935,Eric Lane,nm0485332
+http://www.wikidata.org/entity/Q5479837,Francine Everett,nm0263515
+http://www.wikidata.org/entity/Q5585258,Gordon Heath,nm0372649
+http://www.wikidata.org/entity/Q6174826,Jeff Roches,nm2924810
+http://www.wikidata.org/entity/Q6262151,John W. Bubbles,nm0836970
+http://www.wikidata.org/entity/Q6384955,Keith Robinson,nm0732804
+http://www.wikidata.org/entity/Q6530936,Leslie Jones,nm0428656
+http://www.wikidata.org/entity/Q6897510,Moms Mabley,nm0531098
+http://www.wikidata.org/entity/Q6968702,Nate Parker,nm1676649
+http://www.wikidata.org/entity/Q7087370,"Oliver ""Power"" Grant",nm0335592
+http://www.wikidata.org/entity/Q7429196,Sayeed Shahidi,nm3162144
+http://www.wikidata.org/entity/Q7493060,Sheila Guyse,nm0349943
+http://www.wikidata.org/entity/Q7812712,Todd Williams,nm0931822
+http://www.wikidata.org/entity/Q7823519,Tony T. Roberts,nm1491432
+http://www.wikidata.org/entity/Q11853951,Basil Wallace,nm0908534
+http://www.wikidata.org/entity/Q14941915,Uzo Aduba,nm2499064
+http://www.wikidata.org/entity/Q16727679,Danielle Brooks,nm5335029
+http://www.wikidata.org/entity/Q16729989,Michelle Hurst,nm0403630
+http://www.wikidata.org/entity/Q16730130,Jadagrace,nm3020026
+http://www.wikidata.org/entity/Q18089198,Leslie Odom Jr.,nm1502434
+http://www.wikidata.org/entity/Q18619863,Adrienne C. Moore,nm3166754
+http://www.wikidata.org/entity/Q18749573,Trai Byers,nm1784293
+http://www.wikidata.org/entity/Q19666388,Teyonah Parris,nm3500582
+http://www.wikidata.org/entity/Q19667862,O'Shea Jackson Jr.,nm6578009
+http://www.wikidata.org/entity/Q20740941,Corey Hawkins,nm3659660
+http://www.wikidata.org/entity/Q20741007,Jaz Sinclair,nm3596959
+http://www.wikidata.org/entity/Q20895485,Jason Mitchell,nm4207146
+http://www.wikidata.org/entity/Q21296927,Kendrick Sampson,nm3069604
+http://www.wikidata.org/entity/Q21596656,Mya Taylor,nm4924757
+http://www.wikidata.org/entity/Q21596659,Kitana Kiki Rodriguez,nm6702770
+http://www.wikidata.org/entity/Q21643017,Brytni Sarpy,nm3556021
+http://www.wikidata.org/entity/Q21964824,Damon Gupton,nm0348515
+http://www.wikidata.org/entity/Q22277553,"Demetrius Shipp, Jr.",nm7447307
+http://www.wikidata.org/entity/Q24174945,Sasha Lane,nm7603745
+http://www.wikidata.org/entity/Q25898366,Wally Taylor,nm0853321
+http://www.wikidata.org/entity/Q25999319,Zaidee Jackson,nm2957662
+http://www.wikidata.org/entity/Q27907390,Devon Terrell,nm6863919
+http://www.wikidata.org/entity/Q28078269,Shaun Brown,nm3357942
