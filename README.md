@@ -6,7 +6,7 @@ The project idea is to find out african-american actors in the US movie industry
 # Project website:
 https://yogco2.wixsite.com/aa-movie-actors-yogi
 
-# How to run the scripts:
+# How to run the scripts(windows):
 
 * You should have python 3.6.x or higher and pandas library installed.
 * wikidata_actor_africanamericans_imdbid.csv and wikidata_filmactor_africanamericans_imdbid.csv were created ahead with wikidata-query service, contains records of movie actors of african-american ethnicity.
@@ -19,19 +19,21 @@ https://yogco2.wixsite.com/aa-movie-actors-yogi
 2. From Kaggle-The Movies Dataset page (https://www.kaggle.com/rounakbanik/the-movies-dataset), download:
     movies_metadata.csv (table columns are described in the link)
     
-3. Download all python scripts, wikidata_actor_africanamericans_imdbid.csv and wikidata_filmactor_africanamericans_imdbid.csv files from wikidata directory.
+3. Download all python scripts, wikidata_actor_africanamericans_imdbid.csv and wikidata_filmactor_africanamericans_imdbid.csv files from wikidata directory to same directory with the scripts.
 
-4. Run python createTitlePrincipalsOnlyActors.py in order to create principals table of only actors records:
+4. Open cmd in python scripts directory.
+
+5. Run python createTitlePrincipalsOnlyActors.py in order to create principals table of only actors records:
 title_principals_only_actors.tsv file (which basicly contains imdb_id's of movies and their actors imdb_id's).
 
-5. Run python createUsMovies.py in order to create a table of movies produced in the US:
+6. Run python createUsMovies.py in order to create a table of movies produced in the US:
 us_movies.csv file (which contains id, title, release year and genres of every movie).
 
-6. Run python createYearMoviesMoviesWithAAActors.py
+7. Run python createYearMoviesMoviesWithAAActors.py
 It iterates over the years and for each year, counts the total number of movies produced and the number of those with african-american actors.
 Finally writing the requested data to year_movies_moviesWithAAActors.csv file.
 
-7. Run python createGenresPopularity.py
+8. Run python createGenresPopularity.py
 It will iterate over all african-american actors from records of wikidata query created files,
 and for every actor, find his movies, find movie genres for every movie and add every genre to the genre count.
 Finally writing the data to genre_num_of_movies.csv file.
