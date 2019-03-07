@@ -1,7 +1,7 @@
 # My Digital Humanities mini project.
 
 # African-American actors in the US movie industry data analysis.
-The project idea is to find out african-american actors in the US movie industry status and changes over the years.
+The project idea is to find out the status of african-american actors in the US movie industry, and changes in their status over the years while learning new techniques of data science and analysis.
 
 # Project website:
 https://yogco2.wixsite.com/aa-movie-actors-yogi
